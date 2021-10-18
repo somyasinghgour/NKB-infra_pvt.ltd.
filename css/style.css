@@ -1908,6 +1908,10 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .ts-service-classic:hover .ts-service-icon i {
   background: #113663d9;
 }
+.service-img
+  {
+    height: 300px;
+  }
 
 /* Projects area
 ================================================== */
@@ -2043,7 +2047,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .shuffle-item .project-img-container .project-item-info-content .project-cat {
-  background: #113663d9;
+  background: #9bb3d8;
   display: inline-block;
   padding: 2px 8px;
   font-weight: 700;
@@ -2138,6 +2142,11 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 .project-link {
   margin-top: 15px;
+}
+
+.project-img{
+  height: 290px;
+  width: 100%;
 }
 
 /* Content area
